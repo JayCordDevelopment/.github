@@ -8,5 +8,5 @@
 - [Patreon](https://www.patreon.com/jaycord)
 
 <div align="center">
-  <img width="600" src="https://cdn.discordapp.com/attachments/1111755400090484856/1112797185927549029/jc_invite_bg.png">
+  <img width="600" src="https://cdn.discordapp.com/attachments/1103912751157485570/1117694873785610270/JayCord.png">
 </div>
