@@ -1,7 +1,7 @@
 🌴 JayCord, a server dedicated towards bringing members together from across platforms.
 
 ## Links
-- [Discord Server](https://discord.gg/jaycord)
+- [Discord Server](https://discord.gg/47fWbK5QYB)
 - [Support Page](https://support.jayts.xyz/jaycord/overview)
 - [Twitter](https://twitter.com/jaycord5)
 - [Reddit](https://www.reddit.com/r/JayCord/)
